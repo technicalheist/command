@@ -12,6 +12,7 @@ The aim of this repository is to provide a collection of useful bash scripts tha
 
 ## Usage
 To use any of the scripts in this repository, simply clone the repository to your local machine and navigate to the desired script file. You can then execute the script using a bash-compatible shell.
+- To Install NVM :  curl -o- https://raw.githubusercontent.com/technicalheist/command/main/nvm.sh | bash
 
 ## Contribution Guidelines
 1. Fork this repository.
